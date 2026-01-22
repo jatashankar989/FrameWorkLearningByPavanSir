@@ -1,0 +1,11 @@
+testCases\TC002_LoginModule.class
+pageObjects\RegisterPage.class
+testCases\TC001_CreationOfAccount.class
+utilities\ExcelDataProvider.class
+pageObjects\basePage.class
+utilities\ExcelUtilityClass.class
+pageObjects\LoginPage.class
+utilities\ExtentReportManager.class
+pageObjects\AccountCreation.class
+testBases\BaseClass.class
+testCases\TC003_ValidationOfUser.class

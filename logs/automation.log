@@ -1,0 +1,253 @@
+16:33:54.433 [main] INFO  testCases.TC002_LoginModule -************** Test Case TC002 is Satrting By Creating the Object for the RegisterPage************
+16:33:54.433 [main] INFO  testCases.TC002_LoginModule -***********Clicking on the My Account Link present in the Application***********
+16:33:57.569 [main] INFO  testCases.TC002_LoginModule -***********Clicking on the Login Link present in the Application***********
+16:34:00.826 [main] INFO  testCases.TC002_LoginModule -***********Entering UserName in the Application for the Login***********
+16:34:03.987 [main] INFO  testCases.TC002_LoginModule -***********Entering Password For Logging in into the Application***********
+16:34:07.072 [main] INFO  testCases.TC002_LoginModule -**********Clicking on the Login Button**********
+18:23:57.526 [main] INFO  testCases.TC002_LoginModule -************** Test Case TC002 is Satrting By Creating the Object for the RegisterPage************
+18:23:57.534 [main] INFO  testCases.TC002_LoginModule -***********Clicking on the My Account Link present in the Application***********
+18:24:00.646 [main] INFO  testCases.TC002_LoginModule -***********Clicking on the Login Link present in the Application***********
+18:24:04.018 [main] INFO  testCases.TC002_LoginModule -***********Entering UserName in the Application for the Login***********
+18:24:07.200 [main] INFO  testCases.TC002_LoginModule -***********Entering Password For Logging in into the Application***********
+18:24:10.315 [main] INFO  testCases.TC002_LoginModule -**********Clicking on the Login Button**********
+18:26:39.290 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+18:26:39.317 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+18:26:42.452 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+18:26:45.791 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+18:26:49.006 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+18:26:52.139 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+18:26:56.498 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+18:26:56.499 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+18:26:59.617 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+18:27:03.002 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+18:27:06.165 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+18:27:09.286 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+18:27:13.875 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+18:27:13.880 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+18:27:17.000 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+18:27:20.291 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+18:27:23.473 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+18:27:26.620 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+18:27:30.992 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+18:27:30.996 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+18:27:34.102 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+18:27:37.459 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+18:27:40.592 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+18:27:43.740 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+18:27:57.539 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+18:27:57.541 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+18:28:00.644 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+18:28:03.964 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+18:28:07.136 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+18:28:10.252 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+18:32:33.229 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+18:32:33.259 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+18:32:36.386 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+18:32:39.691 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+18:32:42.880 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+18:32:46.021 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+18:32:50.289 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+18:32:50.289 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+18:32:53.424 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+18:32:56.719 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+18:32:59.867 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+18:33:03.016 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+18:33:07.481 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+18:33:07.483 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+18:33:10.590 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+18:33:13.908 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+18:33:17.036 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+18:33:20.190 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+18:33:24.183 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+18:33:24.183 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+18:33:27.281 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+18:33:36.292 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+18:33:39.416 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+18:33:42.571 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+18:33:56.412 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+18:33:56.412 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+18:33:59.532 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+18:34:02.832 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+18:34:05.976 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+18:34:09.089 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+16:16:31.466 [main] INFO  testCases.TC002_LoginModule -************** Test Case TC002 is Satrting By Creating the Object for the RegisterPage************
+16:16:31.472 [main] INFO  testCases.TC002_LoginModule -***********Clicking on the My Account Link present in the Application***********
+16:16:34.595 [main] INFO  testCases.TC002_LoginModule -***********Clicking on the Login Link present in the Application***********
+16:16:37.886 [main] INFO  testCases.TC002_LoginModule -***********Entering UserName in the Application for the Login***********
+16:16:41.028 [main] INFO  testCases.TC002_LoginModule -***********Entering Password For Logging in into the Application***********
+16:16:44.108 [main] INFO  testCases.TC002_LoginModule -**********Clicking on the Login Button**********
+16:16:52.206 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+16:16:52.206 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+16:16:55.459 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+16:16:58.712 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+16:17:01.858 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+16:17:04.939 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+16:17:09.238 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+16:17:09.239 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+16:17:12.346 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+16:17:15.629 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+16:17:18.728 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+16:17:21.808 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+16:17:26.107 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+16:17:26.108 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+16:17:29.203 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+16:17:32.454 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+16:17:35.562 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+16:17:38.644 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+16:17:42.445 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+16:17:42.445 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+16:17:45.530 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+16:17:59.745 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+16:18:02.839 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+16:18:05.919 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+16:18:19.655 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+16:18:19.655 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+16:18:22.729 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+16:18:25.966 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+16:18:29.064 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+16:18:32.145 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+17:04:17.115 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:04:17.123 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:04:17.330 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:04:17.330 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:04:17.352 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:04:17.353 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:04:17.372 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:04:17.372 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:04:17.393 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:04:17.396 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:05:50.784 [main] INFO  testCases.TC002_LoginModule -************** Test Case TC002 is Satrting By Creating the Object for the RegisterPage************
+17:05:50.789 [main] INFO  testCases.TC002_LoginModule -***********Clicking on the My Account Link present in the Application***********
+17:05:53.966 [main] INFO  testCases.TC002_LoginModule -***********Clicking on the Login Link present in the Application***********
+17:05:57.250 [main] INFO  testCases.TC002_LoginModule -***********Entering UserName in the Application for the Login***********
+17:06:00.406 [main] INFO  testCases.TC002_LoginModule -***********Entering Password For Logging in into the Application***********
+17:06:03.499 [main] INFO  testCases.TC002_LoginModule -**********Clicking on the Login Button**********
+17:06:11.679 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:06:11.682 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:06:14.811 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:06:18.116 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+17:06:21.261 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+17:06:24.457 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+17:06:28.833 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:06:28.833 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:06:31.946 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:06:35.218 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+17:06:38.330 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+17:06:41.419 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+17:06:45.724 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:06:45.724 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:06:48.828 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:06:52.121 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+17:06:55.233 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+17:06:58.317 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+17:07:02.291 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:07:02.295 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:07:05.379 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:07:14.546 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+17:07:17.656 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+17:07:20.754 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+17:07:34.534 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:07:34.536 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:07:37.625 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:07:41.159 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+17:07:44.282 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+17:07:47.377 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+17:13:33.882 [main] INFO  testCases.TC002_LoginModule -************** Test Case TC002 is Satrting By Creating the Object for the RegisterPage************
+17:13:33.890 [main] INFO  testCases.TC002_LoginModule -***********Clicking on the My Account Link present in the Application***********
+17:13:37.100 [main] INFO  testCases.TC002_LoginModule -***********Clicking on the Login Link present in the Application***********
+17:13:40.419 [main] INFO  testCases.TC002_LoginModule -***********Entering UserName in the Application for the Login***********
+17:13:43.608 [main] INFO  testCases.TC002_LoginModule -***********Entering Password For Logging in into the Application***********
+17:13:46.745 [main] INFO  testCases.TC002_LoginModule -**********Clicking on the Login Button**********
+17:13:55.646 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:13:55.646 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:13:58.797 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:14:02.142 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+17:14:05.307 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+17:14:08.513 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+17:14:12.941 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:14:12.943 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:14:16.070 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:14:19.420 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+17:14:22.538 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+17:14:25.682 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+17:14:30.346 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:14:30.346 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:14:33.455 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:14:36.732 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+17:14:39.869 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+17:14:42.961 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+17:14:46.880 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:14:46.880 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:14:49.961 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:15:00.143 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:15:00.145 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:15:03.249 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:26:04.940 [main] INFO  testCases.TC002_LoginModule -************** Test Case TC002 is Satrting By Creating the Object for the RegisterPage************
+17:26:04.947 [main] INFO  testCases.TC002_LoginModule -***********Clicking on the My Account Link present in the Application***********
+17:26:08.356 [main] INFO  testCases.TC002_LoginModule -***********Clicking on the Login Link present in the Application***********
+17:26:11.688 [main] INFO  testCases.TC002_LoginModule -***********Entering UserName in the Application for the Login***********
+17:26:14.832 [main] INFO  testCases.TC002_LoginModule -***********Entering Password For Logging in into the Application***********
+17:26:17.927 [main] INFO  testCases.TC002_LoginModule -**********Clicking on the Login Button**********
+17:26:27.005 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:26:27.005 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:26:30.195 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:26:33.475 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+17:26:36.630 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+17:26:39.789 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+17:26:44.006 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:26:44.006 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:26:47.118 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:26:50.450 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+17:26:53.616 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+17:26:56.721 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+17:27:00.969 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:27:00.971 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:27:04.093 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:27:07.343 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+17:27:10.474 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+17:27:13.572 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+17:27:17.402 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:27:17.402 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:27:20.496 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:27:32.736 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+17:27:35.848 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+17:27:39.034 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+17:27:52.857 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:27:52.857 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:27:55.980 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:27:59.227 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+17:28:02.350 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+17:28:05.504 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+17:57:23.539 [main] INFO  testCases.TC002_LoginModule -************** Test Case TC002 is Satrting By Creating the Object for the RegisterPage************
+17:57:23.546 [main] INFO  testCases.TC002_LoginModule -***********Clicking on the My Account Link present in the Application***********
+17:57:26.737 [main] INFO  testCases.TC002_LoginModule -***********Clicking on the Login Link present in the Application***********
+17:57:30.362 [main] INFO  testCases.TC002_LoginModule -***********Entering UserName in the Application for the Login***********
+17:57:33.507 [main] INFO  testCases.TC002_LoginModule -***********Entering Password For Logging in into the Application***********
+17:57:36.604 [main] INFO  testCases.TC002_LoginModule -**********Clicking on the Login Button**********
+17:57:44.790 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:57:44.792 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:57:48.001 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:57:51.460 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+17:57:54.588 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+17:57:57.694 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+17:58:01.237 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:58:01.239 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:58:04.373 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:58:07.729 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+17:58:10.819 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+17:58:13.896 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+17:58:17.646 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:58:17.646 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:58:20.778 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:58:24.352 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+17:58:27.451 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+17:58:30.548 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
+17:58:33.804 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:58:33.804 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:58:36.918 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:58:47.245 [main] INFO  testCases.TC003_ValidationOfUser -************** Test Case TC003_ValidationOfUser is Starting By Creating the Object for the RegisterPage************
+17:58:47.245 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the My Account Link present in the Application***********
+17:58:50.378 [main] INFO  testCases.TC003_ValidationOfUser -***********Clicking on the Login Link present in the Application***********
+17:58:57.113 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering UserName in the Application for the Login***********
+17:59:00.230 [main] INFO  testCases.TC003_ValidationOfUser -***********Entering Password For Logging in into the Application***********
+17:59:03.444 [main] INFO  testCases.TC003_ValidationOfUser -**********Clicking on the Login Button**********
